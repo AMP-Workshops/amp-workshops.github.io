@@ -27,7 +27,7 @@ as a PDF file interpretable by common PDF tools and printable in black and white
 </p>
 {%- when 1 -%}
 <p style="margin:2em;" class="text-center">
-    <a href="https://easychair.org/conferences/?conf=ecsa2023"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Submit</button></a>
+    <a href="https://easychair.org/conferences/?conf=icsoc2024"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Submit</button></a>
 </p>
 {%- else -%}
 <p style="margin:2em;" class="text-center">

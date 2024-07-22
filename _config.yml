@@ -1,19 +1,19 @@
 # Event parameters ------------------------------------------------------------
-edition: 2023
+edition: 2024
 title: Agility with Microservices Programming
 short: AMP 2023
 header:
-  city: "Istanbul, Turkey co-located with ECSA 2023"
-  dates: "September 19th, 2023"
-email: larisa.safina@inria.fr #  temporal contact email
-url: "https://amp.fe.up.pt/2023"
-timezone: Europe/Rome
+  city: "Tunis, Tunesia co-located with ICSOC 2024"
+  dates: "December 3rd, 2024"
+email: jonas.fritzsch@iste.uni-stuttgart.de #  temporal contact email
+url: "https://amp-workshops.github.io/"
+timezone: Europe/Berlin
 # twitter_feed: c_microservices
 # legal_notice_url: /legal-notice
 community_badge:
   asset: "1-black.png"
 #  asset: "2-white.png"
-  token: "amp2023"
+  token: "amp2024"
 
 # Site navigation -------------------------------------------------------------
 navigation_header:

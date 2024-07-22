@@ -1,21 +1,21 @@
-Deadline Extension: Agility with Microservices Programming: Call for Papers
+Agility with Microservices Programming: Call for Papers
 =======================================================
 
 
-Fourth International Workshop on Agility with Microservices Programming
-Affiliated with ECSA 2023
+Fifth International Workshop on Agility with Microservices Programming
+Affiliated with ICSOC 2024
 
-September 18/19th 2023, Istanbul, Turkey
+December 3rd 2024, Tunis, Tunesia
 
-https://amp.fe.up.pt/2023/
+https://amp-workshops.github.io/
 
 
 Important dates
 ---------------
-- Paper submission deadline: July 07th, 2023 (AoE) (extended)
-- Author notification: July 28th, 2023 (AoE)
-- Camera Ready: August 4th, 2023 (AoE)
-- Workshop date: September 18th or 19th, 2023
+- Paper submission deadline: October 7th, 2024 (AoE)
+- Author notification: October 21st, 2024 (AoE)
+- Camera Ready: November 1st, 2024 (AoE)
+- Workshop date: December 3rd, 2024
 
 Theme and Topics
 ----------------
@@ -48,30 +48,28 @@ The topics include (but are not limited to):
 
 Contributions and Evaluation
 ----------------------------
-AMP2023 seeks original contributions of the following types (maximum length):
+AMP2024 seeks original contributions of the following types (maximum length):
 
-- Full papers: research papers, industry experiences, or case studies (12 pages in LNCS format + 2 extra pages for references).
-- Short papers: research papers, industry experiences, or case studies (8 pages in LNCS format + 2 extra pages for references).
+- Full papers: research papers, industry experiences, or case studies (12 pages in LNCS format, incl. references, single-blinded).
+- Short papers: research papers, industry experiences, or case studies (8 pages in LNCS format, incl. references, single-blinded).
 - Extended Abstracts: tool presentations, position papers (2 pages).
 
-Papers should be formatted in Springer’s LNBIP format and submitted through EasyChair.
+Papers should be formatted in Springer’s LNCS format and submitted through EasyChair.
 
-In accordance with ECSA 2023 publication guideline, we adopt a two-step process for the workshop proceedings. Online proceedings (available before the start of the workshop) will include all the accepted papers to AMP2023 and will be published online on the ECSA 2023 web page (no proceedings). The accepted papers will be accessible only by the AMP2023 workshop participants and the format should conform to LNCS (see the ECSA 2023 submission format). After the conference, post-proceedings of selected and extended papers will be published in a Springer LNCS volume (up to 16 pages).
+In accordance with ICSOC 2024 publication guideline, we adopt a two-step process for the workshop proceedings. Online proceedings (available before the start of the workshop) will include all the accepted papers to AMP2024 and will be published online on the AMP 2024 web page (no proceedings). The accepted papers will be accessible only by the AMP2023 workshop participants and the format should conform to LNCS (see the ICSOC 2023 submission format). After the conference, post-proceedings of accepted full and short papers will be published in a Springer LNCS volume (up to 12 pages).
 
 
-For further details, refer to the workshop website at https://amp.fe.up.pt/2023 and for any further queries, please contact the chairs.
+For further details, refer to the workshop website at https://amp-workshops.github.io/ and for any further queries, please contact the chairs.
 
 Program Chairs
 --------------
-Dr Nour Ali, Brunel University London, UK (Nour.Ali@brunel.ac.uk)
 Jonas Fritzsch, University of Stuttgart, DE (jonas.fritzsch@iste.uni-stuttgart.de)
-Larisa Safina, INRIA Lille - Nord Europe, FR (larisa.safina@inria.fr)
-Oleksandr Zaitsev, CIRAD, FR (oleksandr.zaitsev@cirad.fr)
+Sandro Speth, University of Stuttgart, DE (sandro.speth@iste.uni-stuttgart.de)
+Thatiane de Oliveira Rosa, IFTO, BR (thatiane@ifto.edu.br)
 
 Publicity Chairs
 ---------------
-João Daniel, Free University of Bozen-Bolzano, IT 
-Philip Wizenty, University of Applied Science and Arts Dortmund, DE
+TBA
 
 Program Committee
 -----------------
@@ -98,3 +96,4 @@ References
 [1] https://amp.fe.up.pt/2020/
 [2] https://amp.fe.up.pt/2021/
 [3] https://amp.fe.up.pt/2022/
+[4] https://amp.fe.up.pt/2023/
