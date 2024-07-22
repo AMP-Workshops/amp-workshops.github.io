@@ -1,0 +1,32 @@
+- summary: Workshop paper submission deadline
+  id: submission_deadline
+  expired: true
+  entries:
+    - date: 2024-10-07
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+- summary: Authors notification
+  id: notification
+  expired: true
+  entries:
+    - date: 2023-10-21
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+- summary: Camera-ready deadline
+  id: camera_ready
+  expired: true
+  entries:
+    - date: 2024-11-01
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+- summary: Workshop date
+  id: workshop
+  expired: false
+  entries:
+    - date: 2024-12-03
+      zone:
+        tzid: Africa/Tunis
+        label: CET (UTC+1)

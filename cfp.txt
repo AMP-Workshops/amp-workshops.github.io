@@ -1,0 +1,100 @@
+Deadline Extension: Agility with Microservices Programming: Call for Papers
+=======================================================
+
+
+Fourth International Workshop on Agility with Microservices Programming
+Affiliated with ECSA 2023
+
+September 18/19th 2023, Istanbul, Turkey
+
+https://amp.fe.up.pt/2023/
+
+
+Important dates
+---------------
+- Paper submission deadline: July 07th, 2023 (AoE) (extended)
+- Author notification: July 28th, 2023 (AoE)
+- Camera Ready: August 4th, 2023 (AoE)
+- Workshop date: September 18th or 19th, 2023
+
+Theme and Topics
+----------------
+Agile architecture does not necessarily emerge from the use of agile development practices, it needs to be deliberately sought after. This often means creating systems as sets of small, independent components that collaborate to provide the desired functionality. Such components are usually loosely-coupled and expose well-defined APIs that are accessible over standard communication protocols and data formats---they can be individually developed and tested, they can be easily replaced by alternative implementations if needed, and they provide great flexibility when deploying and scaling the system.
+
+This style of architecture is often described as **microservices**. Essentially, microservices decompose a system into an architecture of standalone modules that (i) are simpler to maintain and evolve; (ii) scale efficiently; and (iii) can be reused as building blocks for other architectures. Transitioning to a microservice architecture is crucial for companies in highly-competing markets, where agility and flexibility of software systems become a critical asset to establish leadership.
+
+While microservices are a solution for scalability, maintainability, and evolvability, they come at a cost:
+an increased complexity that calls for an improvement of the current techniques for software construction and advanced engineering practices.
+
+The AMP workshop aims at collecting experiences on microservice adoption, reporting best practises, but also specially failure cases, so as to build community knowledge based on previous errors and successes. The workshop is open to experience reports from practitioners and academia. The fourth edition of AMP aims to continue the success of its previous editions [1-3] in collecting original work on the science and engineering of programming microservices.
+
+We seek to collect original work on the science and engineering of programming microservices which including but not limited to evolutive and agile architectures, methods and tools, patterns, operations practices and DevOps, agile teams, programming languages and techniques for microservices, software quality aspects, metrics and software analytics, verification, test-driven approaches and testing, architectural refactoring, empirical studies and experience reports on microservice adoption and teaching.
+The topics include (but are not limited to):
+
+- Using microservices to enable an evolutive and agile architecture.
+- Software engineering methods and tools for microservices.
+- Patterns for microservices design and development.
+- Operations practises for microservices and DevOps support.
+- Impact of microservices’ usage on agile teams and processes.
+- Programming languages and techniques for microservices.
+- Combining microservices with other architectural styles.
+- Achieving software qualities, e.g., security, maintainability, and deployability.
+- Metrics and software analytics in microservices architectures.
+- Verification of microservice architectures.
+- Test-driven approaches and testing in microservices development.
+- Refactoring in the context of microservices architectures.
+- Empirical studies on microservices.
+- Experience reports on microservice adoption and teaching.
+
+Contributions and Evaluation
+----------------------------
+AMP2023 seeks original contributions of the following types (maximum length):
+
+- Full papers: research papers, industry experiences, or case studies (12 pages in LNCS format + 2 extra pages for references).
+- Short papers: research papers, industry experiences, or case studies (8 pages in LNCS format + 2 extra pages for references).
+- Extended Abstracts: tool presentations, position papers (2 pages).
+
+Papers should be formatted in Springer’s LNBIP format and submitted through EasyChair.
+
+In accordance with ECSA 2023 publication guideline, we adopt a two-step process for the workshop proceedings. Online proceedings (available before the start of the workshop) will include all the accepted papers to AMP2023 and will be published online on the ECSA 2023 web page (no proceedings). The accepted papers will be accessible only by the AMP2023 workshop participants and the format should conform to LNCS (see the ECSA 2023 submission format). After the conference, post-proceedings of selected and extended papers will be published in a Springer LNCS volume (up to 16 pages).
+
+
+For further details, refer to the workshop website at https://amp.fe.up.pt/2023 and for any further queries, please contact the chairs.
+
+Program Chairs
+--------------
+Dr Nour Ali, Brunel University London, UK (Nour.Ali@brunel.ac.uk)
+Jonas Fritzsch, University of Stuttgart, DE (jonas.fritzsch@iste.uni-stuttgart.de)
+Larisa Safina, INRIA Lille - Nord Europe, FR (larisa.safina@inria.fr)
+Oleksandr Zaitsev, CIRAD, FR (oleksandr.zaitsev@cirad.fr)
+
+Publicity Chairs
+---------------
+João Daniel, Free University of Bozen-Bolzano, IT 
+Philip Wizenty, University of Applied Science and Arts Dortmund, DE
+
+Program Committee
+-----------------
+Alceste Scalas, Technical University of Denmark, DK
+Alfredo Goldman, University of São Paulo, BR
+Andrea Melis, University of Bologna, IT
+Blagovesta Kostova, Swiss Federal Institute of Technology (EPFL), CH
+Carlos Solis, ION Analytics, UK
+Filipe Correia, University of Porto, PT
+Florian Rademacher, RWTH Aachen University , DE
+Gordana Rakic, University of Novi Sad, CS
+Jacopo Soldani, University of Pisa, IT
+Javad Ghofrani, University of Luebeck, DE
+Jonas Sorgalla, University of Applied Science and Arts Dortmund, DE
+Marco Peressotti, University of Southern Denmark, DK
+Michał J. Gajda, Migamake Pte Ltd, PL
+Nuno Santos, Natixis, PT
+Philip Wizenty, University of Applied Science and Arts Dortmund, DE
+Saverio Giallorenzo, University of Bologna, IT
+Sebastian Copei, University of Kassel, DE
+
+References
+—---------
+[1] https://amp.fe.up.pt/2020/
+[2] https://amp.fe.up.pt/2021/
+[3] https://amp.fe.up.pt/2022/

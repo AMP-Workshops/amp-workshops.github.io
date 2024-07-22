@@ -1,0 +1,38 @@
+<header class="header">
+  <script type="text/javascript" src="{{ "/assets/scripts/jquery.min.js" | relative_url }}"></script>
+  <script type="text/javascript" src="{{ "/assets/scripts/bootstrap.min.js" | relative_url }}"></script>
+  
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+   ga('create', '{{ site.google_analytics_code }}', 'auto');
+   ga('send', 'pageview');
+
+  </script>
+
+{% comment %}
+<script>
+    var application_id = 'd428831f-ae4b-44df-92fa-7ca0fc156c9b';
+    (function (w,d,n,u) {
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};
+        var a=d.createElement("script");
+        a.type="text/javascript",a.async=1,a.src=u;
+        var b=d.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a,b)
+    })(window,document,'ekkoNow','//static.ekko.chat/now/ekkonow.min.js');
+    ekkoNow('init', application_id);
+  </script>
+{% endcomment %}
+
+  {% include site-feature.html %}
+
+  <div class="mycontainer">
+      
+    {% include nav-header.html %}
+
+  </div>
+
+</header>

@@ -1,0 +1,5 @@
+@media (max-width: 643px) {
+    #mc_badge {
+        display: none;
+    }
+}

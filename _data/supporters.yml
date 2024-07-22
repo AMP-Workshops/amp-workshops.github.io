@@ -1,0 +1,20 @@
+- name: University of Applied Sciences and Arts Dortmund
+  type: Supporter
+  link: https://www.fh-dortmund.de/en/index.php
+  logo: /assets/images/supporters/fhdo.svg
+- name: INRIA Lille
+  type: Supporter
+  link: https://www.inria.fr/en
+  logo: /assets/images/supporters/inria.png
+- name: Free University of Bozen-Bolzano
+  type: Supporter
+  link: https://www.unibz.it/
+  logo: /assets/images/supporters/unibz.png
+- name: University of Porto
+  type: Sponsor
+  link: https://www.up.pt/
+  logo: /assets/images/supporters/uop.png
+- name: Institute of Software Engineering, University of Stuttgart
+  type: Sponsor
+  link: https://www.iste.uni-stuttgart.de/
+  logo: /assets/images/supporters/uop.png

@@ -1,0 +1,64 @@
+# Event parameters ------------------------------------------------------------
+edition: 2023
+title: Agility with Microservices Programming
+short: AMP 2023
+header:
+  city: "Istanbul, Turkey co-located with ECSA 2023"
+  dates: "September 19th, 2023"
+email: larisa.safina@inria.fr #  temporal contact email
+url: "https://amp.fe.up.pt/2023"
+timezone: Europe/Rome
+# twitter_feed: c_microservices
+# legal_notice_url: /legal-notice
+community_badge:
+  asset: "1-black.png"
+#  asset: "2-white.png"
+  token: "amp2023"
+
+# Site navigation -------------------------------------------------------------
+navigation_header:
+  Home:              /
+#  Registration:      /registration/
+  Program:           /program/
+  Keynotes:          /keynotes/
+#  Venue:             /venue/
+#  "Call for Papers & Paper Submission": /cfp/
+  Committees:        /committees/
+# Contact:           /contact/
+
+# Exclude from build -----------------------------------------------------------
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- Makefile
+- alembic-jekyll-theme.gemspec
+- include_md.html
+
+#------------------------------------------------------------------------------
+logo: "/assets/images/logo.png"
+avatarurl: "/assets/images/favicon.ico"
+
+encoding: utf-8
+
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-email-protect
+
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      feature_image: "image0.jpg"
+      image_source: "Martin Sarikov"
