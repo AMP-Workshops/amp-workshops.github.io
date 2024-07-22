@@ -33,7 +33,6 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
       </td>
     </tr>
     <tr>
-    <tr>
       <td>Thatiane de Oliveira Rosa</td>
       <td>IFTO, BR</td>
       <td>

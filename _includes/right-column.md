@@ -94,7 +94,7 @@
 <li class="list-group-item list-group-item-primary">
 <p class="text-center" style="font-size: 1.4em;">
 <strong>Workshop at
-<a href="https://conf.researchr.org/home/ecsa-2023">ECSA 2023</a>
+<a href="https://icsoc2024.redcad.tn/index.html">ICSOC 2024</a>
 </strong></p>
 </li></ul>
 </div>
@@ -127,6 +127,7 @@ $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
   }
 </style>
 
+<!--
 <div class="panel panel-primary">
   <div class="panel-heading">
   <strong>Microservices Community Events</strong>
@@ -174,3 +175,4 @@ $( document ).ready( () => {
   })
 })
 </script>
+-->
