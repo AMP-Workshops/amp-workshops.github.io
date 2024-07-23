@@ -29,7 +29,7 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
   <h4>Speaker's Bio</h4>
 
   <div class="text-muted text-justify">
-  {% if keynote.image %}<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/2023/assets/images/speakers/{{ keynote.image }}">{% endif %}
+  {% if keynote.image %}<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/2024/assets/images/speakers/{{ keynote.image }}">{% endif %}
   {{ keynote.bio }}
   </div>
 </div>
@@ -44,7 +44,7 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
 
   {% for bio in keynote.bios %}
   <div class="text-muted text-justify">
-  {% if bio.image %}<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/2023/assets/images/speakers/{{ bio.image }}">{% endif %}
+  {% if bio.image %}<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/2024/assets/images/speakers/{{ bio.image }}">{% endif %}
   {{ bio.text }}
   </div>
   {% endfor %}

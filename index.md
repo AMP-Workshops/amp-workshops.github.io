@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Agility with Microservices Programming 2023
+title: Agility with Microservices Programming 2024
 feature_image: "image13.jpg"
 image_source: "<a href=\"https://pixabay.com/users/memotravels-6537808\" target=\"_blank\">MemoTravels</a>"
 ---
