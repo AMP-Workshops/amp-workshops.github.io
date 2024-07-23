@@ -118,7 +118,7 @@
 $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
 </script>
 
-
+<!--
 <style>
   .microservices_community_event {
     line-height: 1.05em;
@@ -127,7 +127,7 @@ $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
   }
 </style>
 
-<!--
+
 <div class="panel panel-primary">
   <div class="panel-heading">
   <strong>Microservices Community Events</strong>
