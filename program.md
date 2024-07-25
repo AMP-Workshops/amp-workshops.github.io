@@ -2,7 +2,7 @@
 title: Program
 layout: page
 feature_image: "image22.jpg"
-image_source: "<a href=\"https://pixabay.com/users/papannon-38086/" target=\"_blank\">Tonda Tran</a>"
+image_source: "<a href=\"https://pixabay.com/users/papannon-38086\" target=\"_blank\">Tonda Tran</a>"
 ---
 
 {% assign tentative = false %}
