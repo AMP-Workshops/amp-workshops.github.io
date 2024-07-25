@@ -61,4 +61,4 @@ defaults:
     values:
       layout: page
       feature_image: "image21.jpg"
-      image_source: "<a href=\"https://pixabay.com/users/violetta-37547/" target=\"_blank\">Viola &#x27;</a>"
+      image_source: "<a href=\"https://pixabay.com/users/violetta-37547\" target=\"_blank\">Viola &#x27;</a>"
