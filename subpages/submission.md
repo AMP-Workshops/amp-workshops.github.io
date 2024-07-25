@@ -10,8 +10,7 @@ AMP2024 seeks original contributions of the following types (maximum length):
 
 Papers should be formatted in Springer’s LNCS format and submitted through [EasyChair](https://easychair.org/conferences/?conf=icsoc2024).
 
-In accordance with ICSOC 2024 publication guideline, we adopt a two-step process for the workshop proceedings. Online proceedings (available before the start of the workshop) will include all the accepted papers to AMP2024 and will be published online on the AMP 2024 web page (no proceedings). The accepted papers will be accessible only by the AMP2024. After the conference, we will organize post-proceedings of accepted full and short papers of workshops that will be published in a Springer LNCS volume (up to 12 pages).
-
+In accordance with ICSOC 2024 publication guideline, accepted papers will be published in the post-proceedings.
 
 ## How to submit
 
