@@ -60,5 +60,5 @@ defaults:
       type: pages
     values:
       layout: page
-      feature_image: "image0.jpg"
-      image_source: "Martin Sarikov"
+      feature_image: "image21.jpg"
+      image_source: "<a href=\"https://pixabay.com/users/violetta-37547/" target=\"_blank\">Viola &#x27;</a>"

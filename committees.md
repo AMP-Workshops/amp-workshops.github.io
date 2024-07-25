@@ -50,7 +50,7 @@ image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206" target=\
   <tbody>
     <tr>
       <td>João Francisco</td>
-      <td>TBA</td>
+      <td>Free University of Bozen-Bolzano, IT</td>
       <td>
         <strong>JoaoFrancisco.LinoDaniel</strong>
         [at]
