@@ -1,8 +1,8 @@
 ---
 title: Keynotes
 layout: page
-feature_image: "image12.jpg"
-image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=\"_blank\">SvitlanaRom</a>"
+feature_image: "image23.jpg"
+image_source: "<a href=\"https://pixabay.com/users/drahunkas-3811853" target=\"_blank\">Drahuška</a>"
 ---
 
 

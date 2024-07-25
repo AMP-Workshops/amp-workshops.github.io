@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Agility with Microservices Programming 2024
-feature_image: "image13.jpg"
-image_source: "<a href=\"https://pixabay.com/users/memotravels-6537808\" target=\"_blank\">MemoTravels</a>"
+feature_image: "image21.jpg"
+image_source: "<a href=\"https://pixabay.com/users/violetta-37547/" target=\"_blank\">Viola &#x27;</a>"
 ---
 
 <ul class="nav nav-tabs nav-justified">

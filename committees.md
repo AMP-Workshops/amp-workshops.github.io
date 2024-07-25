@@ -1,8 +1,8 @@
 ---
 title: Committees
 layout: page
-feature_image: "image16.jpg"
-image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=\"_blank\">SvitlanaRom</a>"
+feature_image: "image24.jpg"
+image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206" target=\"_blank\">ziedkammoun</a>"
 ---
 
 <div class="container"></div>
@@ -52,9 +52,9 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
       <td>João Francisco</td>
       <td>TBA</td>
       <td>
-        <strong>TBA</strong>
+        <strong>JoaoFrancisco.LinoDaniel</strong>
         [at]
-        <strong>tba.com</strong>
+        <strong>student.unibz.it</strong>
       </td>
     </tr>
   </tbody>
@@ -65,20 +65,12 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
 <table>
   <tbody>
     <tr>
-      <td>Alceste Scalas</td>
-      <td>Technical University of Denmark, DK</td>
-    </tr>
-    <tr>
       <td>Alfredo Goldman</td>
       <td>University of São Paulo, BR</td>
     </tr>
     <tr>
       <td>Andrea Melis</td>
       <td>University of Bologna, IT</td>
-    </tr>
-    <tr>
-      <td>Blagovesta Kostova</td>
-      <td>Swiss Federal Institute of Technology (EPFL), CH</td>
     </tr>
      <tr>
       <td>Carlos Solis</td>
@@ -93,20 +85,12 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
       <td>RWTH Aachen University , DE</td>
     </tr>
     <tr>
-      <td>Gordana Rakic</td>
-      <td>University of Novi Sad, CS</td>
-    </tr>
-    <tr>
       <td>Jacopo Soldani</td>
       <td>University of Pisa, IT</td>
     </tr>
     <tr>
       <td>Javad Ghofrani</td>
       <td>University of Luebeck, DE</td>
-    </tr>
-    <tr>
-      <td>Jonas Sorgalla</td>
-      <td>University of Applied Science and Arts Dortmund, DE</td>
     </tr>
     <tr>
       <td>Marco Peressotti</td>
@@ -117,12 +101,8 @@ image_source: "<a href=\"https://pixabay.com/users/svitlanarom-1246047\" target=
       <td>Migamake Pte Ltd, PL</td>
     </tr>
     <tr>
-      <td>Nuno Santos</td>
-      <td>Natixis, PT</td>
-    </tr>
-    <tr>
-      <td>Philip Wizenty</td>
-      <td>University of Applied Science and Arts Dortmund, DE</td>
+      <td>Nour Ali</td>
+      <td>Brunel University London, UK</td>
     </tr>
     <tr>
       <td>Saverio Giallorenzo</td>
