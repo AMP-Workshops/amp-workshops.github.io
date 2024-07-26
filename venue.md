@@ -23,7 +23,7 @@ Tunesia
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.dk/maps/place/IT+University+of+Copenhagen/@55.659635,12.5887693,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa280a05485937e38!8m2!3d55.659635!4d12.590958?hl=en">
+  src="https://www.google.com/maps/place//data=!4m2!3m1!1s0x12e2b4fd16ccc4cd:0xb05acea5529e08d1?sa=X&ved=1t:8290&ictx=111">
 </iframe>
 </div>
 </div>
