@@ -64,7 +64,11 @@ image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206\" target=
 
 <table>
   <tbody>
-    <tr>
+	<tr>
+      <td>Alceste Scalas</td>
+      <td>Technical University of Denmark, DK</td>
+    </tr>
+	<tr>
       <td>Alfredo Goldman</td>
       <td>University of São Paulo, BR</td>
     </tr>
