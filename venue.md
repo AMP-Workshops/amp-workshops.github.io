@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Venue
-feature_image: "image10.jpg"
-image_source: "<a href=\"https://pixabay.com/users/memotravels-6537808\" target=\"_blank\">MemoTravels</a>"
+feature_image: "image25.jpg"
+image_source: "<a href=\"https://pixabay.com/users/anis1969-6452442\" target=\"_blank\">Barcha</a>"
 ---
 
 The AMP workshop will take place at the following venue:
