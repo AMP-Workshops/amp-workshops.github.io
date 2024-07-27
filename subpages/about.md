@@ -6,7 +6,7 @@ We seek to collect original work on the science and engineering of programming m
 
 Links to previous editions of the AMP Workshop:
 
-[AMP2023](https://amp.fe.up.pt/2023/) (co-located with ECSA 2023)
-[AMP2022](https://amp.fe.up.pt/2022/) (co-located with XP 2022)
-[AMP2021](https://amp.fe.up.pt/2021/)
+[AMP2023](https://amp.fe.up.pt/2023/) (co-located with ECSA 2023) <br>
+[AMP2022](https://amp.fe.up.pt/2022/) (co-located with XP 2022) <br>
+[AMP2021](https://amp.fe.up.pt/2021/) <br>
 [AMP2020](https://amp.fe.up.pt/2020/)
