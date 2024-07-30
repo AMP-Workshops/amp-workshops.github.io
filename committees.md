@@ -97,6 +97,10 @@ image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206\" target=
       <td>University of Luebeck, DE</td>
     </tr>
     <tr>
+      <td>Larisa Safina</td>
+      <td>INRIA Lille - Nord Europe, FR</td>
+    </tr>
+    <tr>
       <td>Marco Peressotti</td>
       <td>University of Southern Denmark, DK</td>
     </tr>
@@ -107,6 +111,10 @@ image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206\" target=
     <tr>
       <td>Nour Ali</td>
       <td>Brunel University London, UK</td>
+    </tr>
+	<tr>
+      <td>Philip Wizenty</td>
+      <td>University of Applied Sciences and Arts Dortmund, DE</td>
     </tr>
     <tr>
       <td>Saverio Giallorenzo</td>
