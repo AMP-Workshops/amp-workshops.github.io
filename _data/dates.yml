@@ -2,7 +2,7 @@
   id: submission_deadline
   expired: false
   entries:
-    - date: 2024-10-07
+    - date: 2024-09-26
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -10,7 +10,7 @@
   id: notification
   expired: false
   entries:
-    - date: 2024-10-21
+    - date: 2024-10-24
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -18,7 +18,7 @@
   id: camera_ready
   expired: false
   entries:
-    - date: 2024-11-01
+    - date: 2024-10-31
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
