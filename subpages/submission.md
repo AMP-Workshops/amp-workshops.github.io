@@ -8,7 +8,7 @@ AMP2024 seeks original contributions of the following types (maximum length):
 - Short papers: research papers, industry experiences, or case studies (8 pages in LNCS format, incl. references, single-blinded).
 - Extended Abstracts: tool presentations, position papers (2 pages, not part of the proceedings).
 
-Papers should be formatted in Springer’s LNCS format and submitted through [EasyChair](https://easychair.org/conferences/?conf=amp2024).
+Papers should be formatted in Springer’s LNCS format and submitted through [EasyChair](https://easychair.org/conferences/?conf=icsoc2024).
 
 In accordance with [ICSOC 2024](https://icsoc2024.redcad.tn/call-workshops.html) publication guideline for workshops, accepted papers will be published in the post-proceedings.
 
