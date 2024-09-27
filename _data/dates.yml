@@ -2,7 +2,7 @@
   id: submission_deadline
   expired: false
   entries:
-    - date: 2024-09-26
+    - date: 2024-10-07
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
