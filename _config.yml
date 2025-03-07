@@ -1,10 +1,10 @@
 # Event parameters ------------------------------------------------------------
 edition: 2024
 title: Agility with Microservices Programming
-short: AMP 2024
+short: AMP 2025
 header:
-  city: "Tunis, Tunesia co-located with ICSOC 2024"
-  dates: "December 3rd, 2024"
+  city: "Limassol, Cyprus co-located with ECSA 2025"
+  dates: "September 15/16th, 2025"
 email: jonas.fritzsch@iste.uni-stuttgart.de #  temporal contact email
 url: "https://amp-workshops.github.io/"
 timezone: Europe/Berlin
@@ -13,7 +13,7 @@ timezone: Europe/Berlin
 community_badge:
   asset: "1-black.png"
 #  asset: "2-white.png"
-  token: "amp2024"
+  token: "amp2025"
 
 # Site navigation -------------------------------------------------------------
 navigation_header:

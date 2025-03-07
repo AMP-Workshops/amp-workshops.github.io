@@ -7,11 +7,11 @@ image_source: "<a href=\"https://pixabay.com/users/anis1969-6452442\" target=\"_
 
 The AMP workshop will take place at the following venue:
 
-Elmouradi Gammarth hotel<br/>
+The St. Raphael Resort – 5 *<br/>
 <b>Room TBA</b><br/>
-B.P597 la marsa gammarth<br/>
-La Marsa 2070<br/>
-Tunesia
+Amathountos Avenue 502<br/>
+Limassol 4520<br/>
+Cyprus
 
 # Interactive Map to the Venue
 <div class="row">
@@ -31,4 +31,4 @@ Tunesia
 <hr/>
 
 # Further Information about the Venue, Traveling and Accommodation
-Please refer to the <a href="https://icsoc2024.redcad.tn/index.html#">venue page on the website of ICSOC 2024</a>.
+Please refer to the venue page on the <a href="https://conf.researchr.org/home/ecsa-2025">website of ECSA 2025</a>.

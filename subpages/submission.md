@@ -2,15 +2,14 @@
 
 Contributions and Evaluation
 ----------------------------
-AMP2024 seeks original contributions of the following types (maximum length):
+AMP 2025 seeks original contributions of the following types (maximum length):
 
-- Full papers: research papers, industry experiences, or case studies (12 pages in LNCS format, incl. references, single-blinded).
-- Short papers: research papers, industry experiences, or case studies (8 pages in LNCS format, incl. references, single-blinded).
-- Extended Abstracts: tool presentations, position papers (2 pages, not part of the proceedings).
+- Full papers: research papers, industry case studies (between 8 and 16 pages in LNCS format, incl. references, single-blinded).
+- Extended Abstracts: tool presentations, position papers (2 to 4 pages, including references, will not appear in the proceedings)
 
-Papers should be formatted in Springer’s LNCS format and submitted through [EasyChair](https://easychair.org/conferences/?conf=icsoc2024).
+Papers should be formatted in Springer’s LNCS format and submitted through [EasyChair](https://easychair.org/conferences/?conf=ecsa2025)
 
-In accordance with [ICSOC 2024](https://icsoc2024.redcad.tn/call-workshops.html) publication guideline for workshops, accepted papers will be published in the post-proceedings.
+In accordance with [ECSA 2025](https://conf.researchr.org/track/ecsa-2025/ecsa-2025-call-for-workshops) publication guideline for workshops, accepted papers will be published in the post-proceedings.
 
 ## How to submit
 
