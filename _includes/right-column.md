@@ -94,7 +94,7 @@
 <li class="list-group-item list-group-item-primary">
 <p class="text-center" style="font-size: 1.4em;">
 <strong>Workshop at
-<a href="https://icsoc2024.redcad.tn/index.html">ICSOC 2024</a>
+<a href="https://conf.researchr.org/home/ecsa-2025">ECSA 2025</a>
 </strong></p>
 </li></ul>
 </div>
