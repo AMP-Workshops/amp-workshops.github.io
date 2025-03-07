@@ -27,4 +27,4 @@ We seek to collect original work on the science and engineering of programming m
 - Empirical studies and experience reports on microservices
 - Teaching and learning microservices: education strategies and experiences
 
-AMP 2025 is organized with the official support of the Microservices Community~\cite{MSCOMM}, an international non-profit organization interested in sharing knowledge and fostering collaborations about the paradigm of microservices.
+AMP 2025 is organized with the official support of the [Microservices Community](https://www.microservices.community/), an international non-profit organization interested in sharing knowledge and fostering collaborations about the paradigm of microservices.
