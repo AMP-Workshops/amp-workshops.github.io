@@ -2,7 +2,7 @@
 title: Committees
 layout: page
 feature_image: "image34.jpg"
-image_source: "<a href=\"https://pixabay.com/users/ziedkammoun-1362206\" target=\"_blank\">ziedkammoun</a>"
+image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\" target=\"_blank\">dimitrisvetsikas1969</a>"
 ---
 
 <div class="container"></div>
