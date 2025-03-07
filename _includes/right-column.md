@@ -71,12 +71,6 @@
 </li>
 {% endunless %}
 {% endfor %}
-<li class="list-group-item">
-<a target="_blank" href="/important-dates.ics" title="Save important dates">
-<div style="margin-left:18px">
-<div style="margin-left:-18px" class="glyphicon glyphicon-calendar float-left"></div>
-# <span>Add to your calendar (*.ics)</span></div></a>
-</li>
 </ul>
 </div>
 
