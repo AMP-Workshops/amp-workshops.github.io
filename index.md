@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Agility with Microservices Programming 2025
-feature_image: "image25.jpg"
-image_source: "<a href=\"https://pixabay.com/users/anis1969-6452442\" target=\"_blank\">Barcha</a>"
+feature_image: "image35.jpg"
+image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\" target=\"_blank\">dimitrisvetsikas1969</a>"
 ---
 
 <ul class="nav nav-tabs nav-justified">

@@ -1,8 +1,8 @@
 ---
 title: Program
 layout: page
-feature_image: "image22.jpg"
-image_source: "<a href=\"https://pixabay.com/users/papannon-38086\" target=\"_blank\">Tonda Tran</a>"
+feature_image: "image32.jpg"
+image_source: "<a href=\"https://pixabay.com/users/larakoptseva-5146114/\" target=\"_blank\">LaraKoptseva</a>"
 ---
 
 {% assign tentative = false %}
