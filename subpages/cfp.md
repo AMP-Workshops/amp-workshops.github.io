@@ -9,7 +9,7 @@ Especially since the rise of large language models (LLMs), development practices
 The AMP workshop aims to collect experiences on microservice adoption and reporting best practices, as well as failure cases, to build community knowledge based on past mistakes and successes.
 We seek to collect original work on the science and engineering of programming microservices, including but not limited to evolutionary and agile architectures, methods and tools, patterns, operational practices and DevOps, agile teams, programming languages and techniques for microservices, software quality aspects, metrics and software analytics, verification, test-driven approaches and testing, architectural refactoring, empirical studies, and experience reports on microservices adoption and teaching. 
 We also emphasize the current trend towards AI-driven software engineering practices and the development of data-intensive applications. 
-The workshop seeks for solutions and experiences both on both AI-assited tooling, and building data-intensive applications and LLMs using microservices.
+The workshop seeks for solutions and experiences both on AI-assisted tooling, and building data-intensive applications and LLMs using microservices.
 The workshop is open to experience reports from practitioners and academics. 
 We seek to collect original work on the science and engineering of programming microservices, including but not limited to the following topics:
 
