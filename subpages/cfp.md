@@ -5,8 +5,6 @@ Transitioning to microservices-based architectures is crucial for companies in h
 Microservices as an architectural style facilitate agility, streamline integration and enable more flexible solutions. 
 However, an adoption also increases complexity and requires novel software construction techniques and advanced agile engineering practices.
 Especially since the rise of large language models (LLMs), development practices increasingly incorporate AI tools, opening a new field of challenges and opportunities for microservices programming.
-While microservices are a solution for scalability, maintainability, and evolvability, they come at a cost:
-an increased complexity that calls for an improvement of the current techniques for software construction and advanced engineering practices.
 
 The AMP workshop aims to collect experiences on microservice adoption and reporting best practices, as well as failure cases, to build community knowledge based on past mistakes and successes.
 We also emphasize the current trend towards AI-driven software engineering practices and the development of data-intensive applications. 
