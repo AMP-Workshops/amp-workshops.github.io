@@ -1,12 +1,12 @@
 Scope
 ----------------------------
-The AMP workshop aims at collecting experiences on microservices adoption, reporting best practices, but also specially failure cases, so as to build community knowledge based on previous errors and successes. The workshop is open to experience reports from practitioners and academia. The fifth edition of AMP aims to continue the success of its previous editions from 2020 to 2023.
 
-We seek to collect original work on the science and engineering of programming microservices, including but not limited to evolutionary and agile architectures, methods and tools, patterns, operational practices and DevOps, agile teams, programming languages and techniques for microservices, software quality aspects, metrics and software analytics, verification, test-driven approaches and testing, architectural refactoring, empirical studies and experience reports on microservices adoption and teaching.
+Transitioning to microservices-based architectures is crucial for companies in highly competitive markets, where the agility and flexibility of software systems are essential. Microservices as an architectural style facilitate agility, streamline integration and enable more flexible solutions. However, an adoption also increases complexity and requires novel software construction techniques and advanced agile engineering practices. Especially since the rise of large language models (LLMs), development practices increasingly incorporate AI tools, opening a new field of challenges and opportunities for microservices programming.
 
-Links to previous editions of the AMP Workshop:
+The Workshop on Agility with Microservices Programming (AMP) aims to collect experiences and studies on microservice architectures, share best practices, report on failure cases, and build a community knowledge base. The fifth edition of AMP aims to continue the success of its previous editions:
 
 [AMP2023](https://amp.fe.up.pt/2023/) (co-located with ECSA 2023) <br>
 [AMP2022](https://amp.fe.up.pt/2022/) (co-located with XP 2022) <br>
 [AMP2021](https://amp.fe.up.pt/2021/) <br>
 [AMP2020](https://amp.fe.up.pt/2020/)
+
