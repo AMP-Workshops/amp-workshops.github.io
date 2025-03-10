@@ -76,9 +76,9 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>Andrea Melis</td>
       <td>University of Bologna, IT</td>
     </tr>
-     <tr>
-      <td>Carlos Solis</td>
-      <td>ION Analytics, UK</td>
+    <tr>
+      <td>Eduardo Guerra</td>
+      <td>Free University of Bozen-Bolzano, IT</td>
     </tr>
     <tr>
       <td>Filipe Correia</td>
@@ -89,36 +89,20 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>RWTH Aachen University , DE</td>
     </tr>
     <tr>
-      <td>Jacopo Soldani</td>
-      <td>University of Pisa, IT</td>
-    </tr>
-    <tr>
       <td>Javad Ghofrani</td>
       <td>University of Luebeck, DE</td>
+    </tr>
+    <tr>
+      <td>Kyle Brown</td>
+      <td>IBM, US</td>
     </tr>
     <tr>
       <td>Larisa Safina</td>
       <td>INRIA Lille - Nord Europe, FR</td>
     </tr>
     <tr>
-      <td>Marco Peressotti</td>
-      <td>University of Southern Denmark, DK</td>
-    </tr>
-    <tr>
       <td>Michał J. Gajda</td>
       <td>Migamake Pte Ltd, PL</td>
-    </tr>
-    <tr>
-      <td>Nour Ali</td>
-      <td>Brunel University London, UK</td>
-    </tr>
-	<tr>
-      <td>Philip Wizenty</td>
-      <td>University of Applied Sciences and Arts Dortmund, DE</td>
-    </tr>
-    <tr>
-      <td>Saverio Giallorenzo</td>
-      <td>University of Bologna, IT</td>
     </tr>
     <tr>
       <td>Sebastian Copei</td>
