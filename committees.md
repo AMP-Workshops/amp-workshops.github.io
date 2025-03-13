@@ -57,6 +57,15 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
         <strong>student.unibz.it</strong>
       </td>
     </tr>
+    <tr>
+      <td>Philip Wizenty</td>
+      <td>Fachhochschule Dortmund, DE</td>
+      <td>
+        <strong>Philip.Wizenty</strong>
+        [at]
+        <strong>fh-dortmund.de</strong>
+      </td>
+    </tr>   
   </tbody>
 </table>
 
@@ -86,7 +95,11 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
     </tr>
     <tr>
       <td>Florian Rademacher</td>
-      <td>RWTH Aachen University , DE</td>
+      <td>RWTH Aachen University, DE</td>
+    </tr>
+    <tr>
+      <td>Floriment Klinaku</td>
+      <td>University of Stuttgart, DE</td>
     </tr>
     <tr>
       <td>Javad Ghofrani</td>
@@ -101,8 +114,16 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>INRIA Lille - Nord Europe, FR</td>
     </tr>
     <tr>
+      <td>Marco Peressotti</td>
+      <td>University of Southern Denmark, DK</td>
+    </tr>      
+    <tr>
       <td>Michał J. Gajda</td>
       <td>Migamake Pte Ltd, PL</td>
+    </tr>
+    <tr>
+      <td>Saverio Giallorenzo</td>
+      <td>University of Bologna, IT</td>
     </tr>
     <tr>
       <td>Sebastian Copei</td>
