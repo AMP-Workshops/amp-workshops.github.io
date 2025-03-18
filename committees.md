@@ -102,6 +102,10 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>University of Stuttgart, DE</td>
     </tr>
     <tr>
+      <td>Francisco Ponce</td>
+      <td>University of Pisa, IT</td>
+    </tr>
+    <tr>
       <td>Javad Ghofrani</td>
       <td>University of Luebeck, DE</td>
     </tr>
