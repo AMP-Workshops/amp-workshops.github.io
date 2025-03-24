@@ -86,6 +86,10 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>University of Bologna, IT</td>
     </tr>
     <tr>
+      <td>Carlos Solis</td>
+      <td>ION Analytics, UK</td>
+    </tr>
+    <tr>
       <td>Eduardo Guerra</td>
       <td>Free University of Bozen-Bolzano, IT</td>
     </tr>
