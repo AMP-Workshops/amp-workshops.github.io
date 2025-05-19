@@ -126,12 +126,16 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
       <td>Migamake Pte Ltd, PL</td>
     </tr>
     <tr>
+      <td>Renato Cordeiro</td>
+      <td>Universidade de São Paulo, BR</td>
+    </tr>
+    <tr>
       <td>Saverio Giallorenzo</td>
       <td>University of Bologna, IT</td>
     </tr>
     <tr>
       <td>Sebastian Copei</td>
-      <td>University of Kassel, DE</td>
+      <td>Fraunhofer IEE, DE</td>
     </tr>
   </tbody>
 </table>
