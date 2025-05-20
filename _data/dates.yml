@@ -2,7 +2,7 @@
   id: submission_deadline
   expired: false
   entries:
-    - date: 2025-05-12
+    - date: 2025-05-26
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -10,7 +10,7 @@
   id: submission_deadline
   expired: false
   entries:
-    - date: 2025-05-19
+    - date: 2025-06-02
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
