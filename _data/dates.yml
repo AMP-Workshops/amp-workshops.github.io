@@ -30,11 +30,3 @@
       zone:
         tzid: Limassol/Cyprus
         label: CET (UTC+1)
-- summary: Workshop paper abstract submission deadline
-  id: submission_deadline
-  expired: true
-  entries:
-    - date: 2025-05-26
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
