@@ -8,7 +8,7 @@
         label: AoE (UTC-12)
 - summary: Authors notification
   id: notification
-  expired: false
+  expired: true
   entries:
     - date: 2025-06-20
       zone:
