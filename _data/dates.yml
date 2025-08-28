@@ -22,11 +22,11 @@
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
-- summary: Workshop date (either 09/15 or 09/16)
+- summary: Workshop date
   id: workshop
   expired: false
   entries:
-    - date: 2025-09-15
+    - date: 2025-09-16
       zone:
         tzid: Limassol/Cyprus
         label: CET (UTC+1)

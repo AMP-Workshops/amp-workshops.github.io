@@ -1,5 +1,5 @@
 ---
-title: Keynote
+title: Keynote by Roberta Capuano, Ph.D.
 layout: page
 feature_image: "image33.jpg"
 image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\" target=\"_blank\">dimitrisvetsikas1969</a>"
@@ -9,7 +9,7 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
 
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
-### Keynote Speaker: Roberta Capuano, Ph.D.
+### Keynote Date: Tuesday, 16 September 2025 11:00am (at Atrium C)
 <table>
   <tbody>
     <tr>
