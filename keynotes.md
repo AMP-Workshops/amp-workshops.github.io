@@ -9,7 +9,7 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
 
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
-### Keynote Date: Tuesday, 16 September 2025 11:00am (at Atrium C)
+### Date and Venue: Tuesday, 16 September 2025 11:00am at Atrium C
 <table>
   <tbody>
     <tr>

@@ -1,30 +1,30 @@
 ---
-- day: September 15/16th<sup>rd</sup>
+- day: September 16th<sup>rd</sup>
   color: "#aeb4ff"
-  theme: "Workshop from TBA to TBA CET (<a href=\"/venue/\">Venue</a>)"
+  theme: "Workshop from 11:00am to 3:30pm (<a href=\"/venue/\">Venue</a>)"
   events:
 
     - title: Registration
-      from: "TBA"
-      to: "TBA"
+      from: 10:30am
+      to: 11:00am
       description: Presenters attend the room and deliver their slides
 
     - title: Opening
-      from: "TBA"
-      to: "TBA"
+      from: 11:00am
+      to: 11:10am
       authors:
         - name: Jonas Fritzsch (University of Stuttgart)
           title: Chairs
-      description: On behalf of the chairs Jonas Fritzsch welcomes all attendees at AMP 2025 and provides information on the organization of the event.
+      description: On behalf of the chairs, Jonas Fritzsch welcomes all attendees at AMP 2025 and provides information on the organization of the event.
 
-    - title: Keynote - TBA
-      from: "TBA"
-      to: "TBA"
+    - title: Keynote
+      from: 11:10am
+      to: 12:00am
       authors:
-        - name: TBA
+        - name: Roberta Capuano, Ph.D.
           title: Speaker
       description: |
-        TBA
+        
   
     - title: Break
       from: "TBA"

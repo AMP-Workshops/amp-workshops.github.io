@@ -8,7 +8,7 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
 The AMP workshop will take place at the following venue:
 
 The St. Raphael Resort – 5 *<br/>
-<b>Room TBA</b><br/>
+<b>Room Atrium C</b><br/>
 Amathountos Avenue 502<br/>
 Limassol 4520<br/>
 Cyprus

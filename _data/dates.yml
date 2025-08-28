@@ -22,7 +22,7 @@
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
-- summary: Workshop date
+- summary: Workshop
   id: workshop
   expired: false
   entries:
