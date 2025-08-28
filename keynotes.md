@@ -1,12 +1,32 @@
 ---
-title: Keynotes
+title: Keynote
 layout: page
 feature_image: "image33.jpg"
 image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\" target=\"_blank\">dimitrisvetsikas1969</a>"
 ---
 
+<div class="container"></div>
 
-{% for keynote in site.data.keynotes %}
+<style> td{min-width:12em} td+td{padding-left:10px;}</style>
+
+### Keynote Speaker: Roberta Capuano, Ph.D.
+<table>
+  <tbody>
+    <tr>
+		<br>
+    </tr>
+    <tr>
+      <td>
+		Roberta Capuano has been working on the challenges of evolving software systems in collaboration with industry since 2019. Her research path led her to earn a Ph.D. in ICT at the University of L’Aquila in 2023, where she now continues as a Postdoctoral Researcher. Over these years, she has built expertise in understanding how complex systems can be transformed to meet new technological and organizational needs while preserving and improving their long-term quality.
+		Her research focuses on quality-driven architectural refactoring through microservices. She investigates how large legacy monolithic systems can be reconstructed, how the migration to microservices can be effectively planned to speed up the process while supporting software architects, and how microservices-based systems can be continuously refactored. In her work, quality requirements such as performance, scalability, and sustainability are considered fundamental criteria that guide architectural decisions. By integrating academic research with practical case studies, she aims to support the development of software systems that are flexible, maintainable, and sustainable over time.  
+	  </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!-- {% for keynote in site.data.keynotes %}
 <div class="row col-md-12" markdown="1">
 
 <h3><a id="{{keynote.title|slugify}}"></a>{{ keynote.title }}</h3>
@@ -53,4 +73,4 @@ image_source: "<a href=\"https://pixabay.com/users/dimitrisvetsikas1969-1857980\
 </div>
 {% endfor %}
 
-<div style="height:4em;" class="row col-md-12"></div>
+<div style="height:4em;" class="row col-md-12"></div> -->
