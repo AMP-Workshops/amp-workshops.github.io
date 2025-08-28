@@ -1,25 +1,25 @@
 ---
-- day: September 16th<sup>rd</sup>
+- day: September 16th
   color: "#aeb4ff"
   theme: "Workshop from 11:00am to 3:30pm (<a href=\"/venue/\">Venue</a>)"
   events:
 
     - title: Registration
-      from: 10:30am
-      to: 11:00am
+      from: 10:30
+      to: 11:00
       description: Presenters attend the room and deliver their slides
 
     - title: Opening
-      from: 11:00am
-      to: 11:10am
+      from: 11:00
+      to: 11:10
       authors:
         - name: Jonas Fritzsch (University of Stuttgart)
           title: Chairs
       description: On behalf of the chairs, Jonas Fritzsch welcomes all attendees at AMP 2025 and provides information on the organization of the event.
 
     - title: Keynote
-      from: 11:10am
-      to: 12:00am
+      from: 11:10
+      to: 12:00
       authors:
         - name: Roberta Capuano, Ph.D.
           title: Speaker
