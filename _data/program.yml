@@ -37,21 +37,21 @@
       to: 14:00pm
       description: | 
       
-    - title: The (C)omprehensive (A)rchitecture (P)attern (I)ntegration method: Navigating the sea of technology
+    - title: "The (C)omprehensive (A)rchitecture (P)attern (I)ntegration method: Navigating the sea of technology"
       from: 14:00pm
       to: 14:30pm
       authors:
         - name: Sebastian Copei, Oliver Hohlfeld (University of Kassel), Jens Kosiol (Philipps-Universität Marburg)
           title: Authors
   
-    - title: Assessing the Impact of Asynchronous Communication on Resilience and Robustness: A Comparative Study of Microservice and Monolithic Architectures
+    - title: "Assessing the Impact of Asynchronous Communication on Resilience and Robustness: A Comparative Study of Microservice and Monolithic Architectures"
       from: 14:30pm
       to: 14:00pm
       authors:
         - name: Nathanael Bosilia, Gerald Weinberger, Philipp Haindl (St. Pölten University of Applied Sciences)
           title: Authors  
 
-    - title: Industrial views on DevOps adoption before and after implementation: A qualitative comparison
+    - title: "Industrial views on DevOps adoption before and after implementation: A qualitative comparison"
       from: 15:00pm
       to: 15:25pm
       authors:
