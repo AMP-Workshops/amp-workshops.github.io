@@ -24,26 +24,58 @@
         - name: Roberta Capuano, Ph.D. (University of L’Aquila)
           title: Speaker
       description: |
-        
+
+    - title: Exploring Micro Frontends: A Case Study Application in E-Commerce
+      from: 12:00pm
+      to: 12:30pm
+      authors:
+        - name: Ricardo Hideki Hangai Kojo, Renato Cordeiro Ferreira, Luiz Fernando O. Corte Real, Alfredo Goldman (University of São Paulo), Thatiane de Oliveira Rosa (Federal Institute of Tocantins)
+          title: Authors
+
+    - title: Lunch Break
+      from: 12:30pm
+      to: 14:00pm
+      description: | 
+      
+    - title: The (C)omprehensive (A)rchitecture (P)attern (I)ntegration method: Navigating the sea of technology
+      from: 14:00pm
+      to: 14:30pm
+      authors:
+        - name: Sebastian Copei, Oliver Hohlfeld (University of Kassel), Jens Kosiol (Philipps-Universität Marburg)
+          title: Authors
   
+    - title: Assessing the Impact of Asynchronous Communication on Resilience and Robustness: A Comparative Study of Microservice and Monolithic Architectures
+      from: 14:30pm
+      to: 14:00pm
+      authors:
+        - name: Nathanael Bosilia, Gerald Weinberger, Philipp Haindl (St. Pölten University of Applied Sciences)
+          title: Authors  
+
+    - title: Industrial views on DevOps adoption before and after implementation: A qualitative comparison
+      from: 15:00pm
+      to: 15:25pm
+      authors:
+        - name: Sebastian Copei, Oliver Hohlfeld (University of Kassel), Jens Kosiol (Philipps-Universität Marburg)
+          title: Authors  
+
     # - title: Break
       # from: "TBA"
       # to: "TBA"  
 
-    - title: Here comes the further program
+    #- title: Here comes the further program
       #link: papers/paper2
       #slides: presentations/paper2.pdf
-      from: "TBA"
-      to: "TBA"
-      authors:
-        - name: TBA
-          title: Authors
+    #  from: "TBA"
+    #  to: "TBA"
+    #  authors:
+    #    - name: TBA
+    #      title: Authors
       #description: |
       #  
       # slides: paper2.pdf
 
     - title: Closing
-      from: 3:15pm
+      from: 3:25pm
       to: 3:30pm
       authors:
         - name: Jonas Fritzsch (University of Stuttgart)
