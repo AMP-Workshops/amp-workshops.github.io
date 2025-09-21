@@ -26,7 +26,8 @@
       description: |
 
     - title: "Exploring Micro Frontends: A Case Study Application in E-Commerce"
-      slides: presentations/presentation1.pdf
+      slides: presentation1.pdf
+      link: papers/paper1.pdf
       from: 12:00pm
       to: 12:30pm
       authors:
@@ -39,7 +40,8 @@
       description: | 
       
     - title: "The (C)omprehensive (A)rchitecture (P)attern (I)ntegration method: Navigating the sea of technology"
-      slides: presentations/presentation2.pdf
+      slides: presentation2.pdf
+      link: papers/paper2.pdf
       from: 14:00pm
       to: 14:30pm
       authors:
@@ -47,7 +49,8 @@
           title: Authors
   
     - title: "Assessing the Impact of Asynchronous Communication on Resilience and Robustness: A Comparative Study of Microservice and Monolithic Architectures"
-      slides: presentations/presentation3.pdf
+      slides: presentation3.pdf
+      link: papers/paper3.pdf
       from: 14:30pm
       to: 14:00pm
       authors:
@@ -55,7 +58,8 @@
           title: Authors  
 
     - title: "Industrial views on DevOps adoption before and after implementation: A qualitative comparison"
-      slides: presentations/presentation4.pdf
+      slides: presentation4.pdf
+      link: papers/paper4.pdf
       from: 15:00pm
       to: 15:25pm
       authors:
