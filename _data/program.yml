@@ -41,7 +41,7 @@
       
     - title: "The (C)omprehensive (A)rchitecture (P)attern (I)ntegration method: Navigating the sea of technology"
       slides: presentation2.pdf
-      link: papers/paper2.pdf
+      link: ../assets/papers/paper2.pdf
       from: 14:00pm
       to: 14:30pm
       authors:
